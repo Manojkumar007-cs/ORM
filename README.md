@@ -4,6 +4,9 @@
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
 # ENTITY RELATIONSHIP DIAGRAM
+
+![manoj er model](https://github.com/user-attachments/assets/4dee571b-299d-4818-aeaa-a328fc79b0b2)
+
 ## DESIGN STEPS
 ## STEP 1:
 Clone the problem from GitHub
