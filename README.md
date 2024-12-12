@@ -46,6 +46,7 @@ class EmployeeAdmin (admin. ModelAdmin):
 
 # OUTPUT
 ![Screenshot 2024-12-06 233314](https://github.com/user-attachments/assets/94b98a73-c2b6-4c8b-949d-87021d5ec283)
+![WhatsApp Image 2024-12-12 at 13 30 14_7a5ef177](https://github.com/user-attachments/assets/941d5f2e-2a21-4f39-8da1-d2e834886a51)
 ![Screenshot 2024-12-06 234722](https://github.com/user-attachments/assets/7943d4a5-772d-46c4-ad9d-3cefc1f8f1d1)
 ![Screenshot 2024-12-06 234747](https://github.com/user-attachments/assets/3a8a3b5c-2dc6-4ddc-bf9d-7db243feb7b5)
 ![Screenshot 2024-12-06 235807](https://github.com/user-attachments/assets/2a8c2c54-f244-40b9-983a-77d1134911cb)
